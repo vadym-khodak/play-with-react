@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Vadym's personal site
+          Vadym's Khodak personal site
         </a>
       </header>
     </div>
